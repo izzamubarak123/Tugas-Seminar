@@ -1,7 +1,7 @@
-Untuk ADMIN :
+ADMIN :
 username = admin
 password = admin123
 
-Untuk Peserta :
+Peserta :
 username = peserta1
 password = peserta123
